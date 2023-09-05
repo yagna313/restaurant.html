@@ -114,7 +114,6 @@
     <section id="location">
         <h2 style="color: #FF5733; font-size: 28px; text-transform: uppercase;">Visit Us</h2>
         <p>Find us on the map:</p>
-        <!-- Replace the URL with the embed code provided by your map service -->
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15226.515154156968!2d78.4095717!3d17.4295934!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb91367ef83ffd%3A0xc31631a76eb84ccc!2sChutneys!5e0!3m2!1sen!2sin!4v1693902642347!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </section>
 
